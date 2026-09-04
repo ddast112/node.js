@@ -1,0 +1,11 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "Simple app to demonstrate Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Michael Majek",
+  "license": "MIT"
+}
